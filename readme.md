@@ -10,3 +10,5 @@ npx create-react-app my-photo-ideas
 ## Rubric
 
  - (20pts) For a completed lab.
+
+ 
