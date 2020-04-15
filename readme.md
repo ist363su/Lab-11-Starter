@@ -9,6 +9,11 @@ npx create-react-app my-photo-ideas
 
 ## Rubric
 
- - (20pts) For a completed lab.
+ - (3pts) Working Login Page
+ - (6pts) Working Upload Page
+ - (4pts) Working List Page
+ - (3pts) Correct favicon
+ - (3pts) Styled Correctly
+
 
  
